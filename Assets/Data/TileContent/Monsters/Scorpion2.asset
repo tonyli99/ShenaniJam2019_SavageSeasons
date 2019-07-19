@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 179cbb9a63dd9474f8710fa981afcc36, type: 3}
+  m_Name: Scorpion2
+  m_EditorClassIdentifier: 
+  description: Dire Scorpion
+  icon: {fileID: 21300000, guid: 1afc607cbb670a342bcdfde75e0a29ff, type: 3}
+  model: {fileID: 1759104261518426409, guid: 3efd2dbf96a6f144cbdf80a00848153c, type: 3}
